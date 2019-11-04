@@ -5,6 +5,7 @@ public class Sou123 {
 	{
 		
 		System.out.println("HELLO SOU");
+		System.out.println("GOOD morning");
 	}
 
 }
